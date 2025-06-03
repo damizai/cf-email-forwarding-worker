@@ -11,12 +11,12 @@
 		"enabled": true
 	},
 	"vars": {
-		"APP_API_URL": "https://wr.do/api/v1/email-catcher"
+		"APP_API_URL": "https://mail.biuxin.com/api/v1/email-catcher"
 	},
 	"r2_buckets": [
 		{
 			"binding": "R2_BUCKET",
-			"bucket_name": "wremail"
+			"bucket_name": "dnsemail"
 		}
 	]
 	/**
