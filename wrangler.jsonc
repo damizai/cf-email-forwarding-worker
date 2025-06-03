@@ -16,7 +16,7 @@
 	"r2_buckets": [
 		{
 			"binding": "R2_BUCKET",
-			"bucket_name": "wremail"
+			"bucket_name": "dnsemail"
 		}
 	]
 	/**
