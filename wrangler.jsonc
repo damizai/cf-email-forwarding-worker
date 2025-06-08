@@ -11,7 +11,7 @@
 		"enabled": true
 	},
 	"vars": {
-		"APP_API_URL": "https://mail.biuxin.com/api/v1/email-catcher"
+		"APP_API_URL": "https://200036.xyz/api/v1/email-catcher"
 	},
 	"r2_buckets": [
 		{
